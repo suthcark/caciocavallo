@@ -1,3 +1,7 @@
+
+BEWARE: THIS README IS PROBABLY OUT OF DATE!
+
+
 Project Caciocavallo - Portable GUI backends for OpenJDK
 -----------------------------------------------------------
 
@@ -198,5 +202,3 @@ Test
 
 It's pretty much everything for now, but stay tuned for other cool
 stuff :)
-
-https://en.wikipedia.org/wiki/Abstract_Window_Toolkit#Implementation
